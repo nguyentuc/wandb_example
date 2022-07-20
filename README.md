@@ -1,2 +1,2 @@
-# wandb_example
+# wandb example
 This is an example for using wandb to log some results of an software program
